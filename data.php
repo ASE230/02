@@ -124,6 +124,71 @@ $data = [
         'tech' => ["Avaya", "Slack", 'Extreme', 'Perl', 'Ruby', 'Python', 'Google Suite']
       ],
     ]
+    ],
+      "Ethan" => [
+    "general" => [
+      "name" => "Ethan Fossmeyer",
+      "title" => "Full-Stack Software Engineer",
+      "email" => "fossmeyere1@mymail.nku.edu",
+      "phone" => "+1 (859) 630-7752",
+      "summary" => 'Experienced technology worker with a strong foundation in IT support, seeking entry level position in Software Development/Engineering. Possesses a proven track record of top-notch technical assistance to high priority users, looking now to provide analytical thinking, problem-solving skills and determination to the realm of software development. Loves to play basketball, play video games, weightlift, collect trading cards, and hike/travel. Has a 15-year old black Dachshund named Indy.',
+      "avatarURL" => "https://avatars.githubusercontent.com/u/110125346?s=400&u=48c8e9f9990b64c9f00e25ef7ee7584bc82da594&v=4"
+    ],
+    "links" => [
+      "LinkedIn" => "efossmeyer",
+      "GitHub" => "EthanF000",
+      "Website" => "ethanfossmeyer.com"
+    ],
+    "education" => [
+      [
+        "university" => "Northern Kentucky University",
+        "timeline" => "Expected 2024",
+        "degree" => "Bachelor of Science - BS, Computer Information Technology"
+      ]
+    ],
+    "skills" => [
+      "main" => [
+        [
+          "name" => "Java",
+          "percent" => 85
+        ],
+        [
+          "name" => "Python",
+          "percent" => 90
+        ],
+        [
+          "name" => "PHP",
+          "percent" => 65
+        ]
+      ],
+      "other" => ["Docker"],
+    ],
+    "awards" => [
+      [
+        "title" => "President's Honor List",
+        "description" => "Received a 4.0 GPA for the Spring 2021, Fall 2021, and Spring 2022 semesters"
+      ]
+    ],
+    "languages" => ["English (Native)"],
+    "interests" => ["hiking", "basketball", "video games"],
+    "projects" => [
+      [
+        "title" => "PHP Website",
+        "description" => "Resume website created using PHP/HTML.",
+        "image" => "https://www.interviewbit.com/blog/wp-content/uploads/2021/06/key-reasons-for-using-php-768x499.png",
+        "link" => "https://github.com/EthanF000/ase230",
+      ]
+    ],
+    "experiences" => [
+      [
+        'position' => 'Help Desk Technician',
+        'company' => 'Answers in Genesis',
+        'timeline' => 'March 2022 - Present',
+        'description' => 'Providing excellent enterprise IT support to executive customers as well as being the lead of ActiveDirectory account creations and maintenance. Regularly involved in typical and atypical software and hardware problem-solving endeavors.',
+        'achievements' => ["Designed and implemented a documentation flow using Power Automate, resulting in a measured 30% boost to overall worker productivity."],
+        'tech' => ["Windows/Linux/Mac", "ActiveDirectory", "Power Automate", "PowerShell", "ZenDesk"],
+      ]
+    ]
   ]
 ];
 
