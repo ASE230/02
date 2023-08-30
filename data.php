@@ -62,3 +62,10 @@ $data = [
     ]
   ]
 ];
+
+$people = [];
+
+foreach ($data as $person) {
+  $people[] = $person['general']['name'];
+}
+?>
