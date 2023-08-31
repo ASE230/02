@@ -41,7 +41,7 @@
 									<h1 class="name mt-0 mb-1 text-white text-uppercase text-uppercase">
 										<?= $person["general"]['name'] ?>
 									</h1>
-									<div class="title mb-3"><?= $person["general"]['name'] ?></div>
+									<div class="title mb-3"><?= $person["general"]['title'] ?></div>
 									<a href="<?= "./detail.php?person=" . $name ?>" class="btn btn-secondary">See full profile</a>
 								</div>
 								<div class="secondary-info col-auto mt-2">
